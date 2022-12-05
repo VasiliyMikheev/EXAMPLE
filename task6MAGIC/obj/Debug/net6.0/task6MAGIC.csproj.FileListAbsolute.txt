@@ -1,0 +1,15 @@
+C:\Users\User\Desktop\example\task6MAGIC\obj\Debug\net6.0\task6MAGIC.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\example\task6MAGIC\obj\Debug\net6.0\task6MAGIC.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\example\task6MAGIC\obj\Debug\net6.0\task6MAGIC.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\example\task6MAGIC\obj\Debug\net6.0\task6MAGIC.AssemblyInfo.cs
+C:\Users\User\Desktop\example\task6MAGIC\obj\Debug\net6.0\task6MAGIC.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\example\task6MAGIC\bin\Debug\net6.0\task6MAGIC.exe
+C:\Users\User\Desktop\example\task6MAGIC\bin\Debug\net6.0\task6MAGIC.deps.json
+C:\Users\User\Desktop\example\task6MAGIC\bin\Debug\net6.0\task6MAGIC.runtimeconfig.json
+C:\Users\User\Desktop\example\task6MAGIC\bin\Debug\net6.0\task6MAGIC.dll
+C:\Users\User\Desktop\example\task6MAGIC\bin\Debug\net6.0\task6MAGIC.pdb
+C:\Users\User\Desktop\example\task6MAGIC\obj\Debug\net6.0\task6MAGIC.dll
+C:\Users\User\Desktop\example\task6MAGIC\obj\Debug\net6.0\refint\task6MAGIC.dll
+C:\Users\User\Desktop\example\task6MAGIC\obj\Debug\net6.0\task6MAGIC.pdb
+C:\Users\User\Desktop\example\task6MAGIC\obj\Debug\net6.0\task6MAGIC.genruntimeconfig.cache
+C:\Users\User\Desktop\example\task6MAGIC\obj\Debug\net6.0\ref\task6MAGIC.dll
